@@ -5,7 +5,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="test/GoogleSearch">
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="test/functions">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
