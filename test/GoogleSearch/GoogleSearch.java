@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class ZoomToClass {
+public class GoogleSearch {
 	public static void main(String[] args) {
 		  try {
 			  //Sets the webdriver.chrome.driver key to the absolute path below
