@@ -31,7 +31,7 @@ public class Carmen {
 			  options.setExperimentalOption("prefs", prefs);
 			  WebDriver driver = new ChromeDriver(options);
  
-			  String username = "bonds.20@osu.edu", password = "Family10000!";
+			  String username = "username", password = "password!";
 					  
 			  WebAction.CarmenLogin(driver, username, password);
 			  
